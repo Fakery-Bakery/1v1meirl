@@ -1,14 +1,9 @@
 # 1v1meirl
 
-A modern web application for 1v1 challenges and matchmaking.
+A just my notes for this.
 
 ## Features
 
-- Real-time matchmaking
-- User profiles and statistics
-- Challenge system
-- Modern, responsive UI
-- Dark theme support
 
 ## Tech Stack
 
@@ -19,12 +14,6 @@ A modern web application for 1v1 challenges and matchmaking.
 - Authentication: JWT
 
 ## Getting Started
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/1v1meirl.git
-cd 1v1meirl
-```
 
 ## Contributing
 

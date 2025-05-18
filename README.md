@@ -7,12 +7,6 @@ A just my notes for this.
 
 ## Tech Stack
 
-- Frontend: React with TypeScript
-- Backend: Node.js with Express
-- Database: MongoDB
-- Real-time: Socket.IO
-- Authentication: JWT
-
 ## Getting Started
 
 ## Contributing

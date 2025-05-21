@@ -1,0 +1,1 @@
+this is for the content creator and content director. Eventually the content creator will be replaced by ai, leaving only the director who made this structure.

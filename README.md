@@ -4,14 +4,20 @@ A just my notes for this.
 
 ## Features
 
+see tasks-mvp folder for all the things this repo can do with cursor
 
 ## Tech Stack
 
+github
+cursor
+
 ## Getting Started
+
+
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are not welcome! You can take anything but i don't want your contribution.
 
 ## License
 

@@ -1,0 +1,98 @@
+<avatar_template>
+# Meta
+avatar_id: <AVATAR_ID>
+internal_name: <INTERNAL_NAME>
+updated_at: <YYYY-MM-DD>
+owner: <OWNER>
+citations:
+  - {source: <SOURCE>, note: <NOTE>}
+
+
+# Demographics (asl)
+age: <AGE>
+pronouns: <PRONOUNS>
+location: <LOCATION>
+
+
+# Socioeconomics
+occupation_title: <OCCUPATION_TITLE>
+income: <INCOME>
+education: <EDUCATION_LEVEL>
+
+
+# Psychographics
+values: (safety/inclusivity needs)
+  - <VALUE_1>
+  - <VALUE_2>
+pains: (including barriers and anxieties, logistical, emotional, social)
+  - <PAIN_1>
+  - <PAIN_2>
+goals:
+  - <GOAL_1>
+  - <GOAL_2>
+triggers: (moments that trigger community seeking)
+  - <TRIGGER_1>
+  - <TRIGGER_2>
+onboarding_anxiety: <ONBOARDING_ANXIETY>
+
+
+# Digital Behavior
+devices:
+  - <DEVICE_1>
+  - <DEVICE_2>
+top_channels: # (preferred content format)
+  - <TOP_CHANNEL_1>
+  - <TOP_CHANNEL_2>
+content_window: <CONTENT_WINDOW> (Time using channels/devices)
+trusted_sources: <TRUSTED_SOURCES>
+content_habits:
+  - <CONTENT_HABIT_1>
+  - <CONTENT_HABIT_2>
+
+
+# Event Preferences
+activity_window: <ACTIVITY_WINDOW> (time when they are available for events)
+location_window: <LOCATION_WINDOW> 
+size: <SIZE> (preferred size of the event, example: less than 20, or more than 80)
+
+
+# Social
+social_fluency: <SOCIAL_FLUENCY> (comfort level with events and meeting new people in person, etc…, from 0 = avoidant introvert to 5 = super charismatic extrovert)
+relationship_status: <RELATIONSHIP_STATUS> (single, recently single, exploring poly, married with single friends, etc…)
+
+
+# Style Preferences
+voice_style: <VOICE_STYLE> (community identity signals)
+tone_allergies: <TONE_ALLERGY_1>
+preferred_content: <PREFERRED_OUTPUT>
+brand_archetype_alignment: <BRAND_ARCHETYPE_ALIGNMENT>
+
+
+# Funnel Mechanics
+discovery_channels:
+  - <DISCOVERY_CHANNELS_1>
+  - <DISCOVERY_CHANNELS_2>
+onboarding: <ONBOARDING>
+activation_metric: <ACTIVATION_METRIC>
+monetization_path: <MONETIZATION_PATH>
+referral_loop: <REFERRAL_LOOP_DESCRIPTION> (why do they refer others)
+retention_loop: <RETENTION_LOOP_DESCRIPTION> (why do they come back)
+
+
+# Messaging Toolkit
+hooks: <HOOKS>
+messaging_pillars: <MESSAGING_PILLARS>
+objection_handling: <OBJECTION_HANDLING>
+
+
+---
+
+
+# Narrative Snapshot
+<Brief narrative snapshot of the avatar>
+
+
+# Success Metrics
+- **<Metric_1>**: <Target_1>
+- **<Metric_2>**: <Target_2>
+<\avatar_template>

@@ -1,0 +1,101 @@
+<avatar_00>
+# Meta
+Avatar_id: TEST_01
+Internal_name: Zakery
+updated_at: 2025-05-07
+owner: Zakery
+citations:
+  - {source: From within, note: Just putting in my own info for reference}
+
+
+# Demographics (asl)
+age: 32
+pronouns: he/him
+location: Lawrenceville, GA
+
+
+# Socioeconomics
+occupation_title: Electrical Engineer # Old, currently inaccurate
+income: ~$100k # Old, currently inaccurate
+education: College Graduate
+
+
+# Digital Behavior
+devices:
+  - Android Phone
+  - PC
+top_channels: # (preferred content format)
+  - Youtube
+  - Facebook (Images)
+content_window: 7am-9am, 5pm-7pm (Time using channels/devices)
+trusted_sources: Youtube Philosophers
+content_habits:
+  - active on youtube most of the day
+  - active on facebook sporadically, posts on facebook
+  - active on instagram sporadically
+
+
+# Event Preferences
+activity_window: Weekends, 12n-5pm (time when they are available for events)
+location_window: Central Atlanta and East Metro Atlanta
+size: Less than 40 people (preferred size of the event, example: less than 20, or more than 80)
+
+
+# Psychographics
+values:
+  - Beauty
+  - Calm
+  - Connection
+  - Honesty
+pains: (including barriers and anxieties, logistical, emotional, social)
+  - social anxiety, dislike meeting people
+  - too many friends
+goals:
+  - Fleeting social connections
+  - Food
+triggers: (moments that trigger community seeking)
+  - <TRIGGER_1>
+  - <TRIGGER_2>
+onboarding_anxiety: No clarity on who will be at the events
+
+
+# Social
+social_fluency: 5, hyper social (comfort level with events and meeting new people in person, etc…, from 0 = avoidant introvert to 5 = super charismatic extrovert)
+relationship_status: In a relationship (single, recently single, exploring poly, married with single friends, etc…)
+
+
+# Style Preferences
+voice_style: Academic, Philosophical, brain rot memes # (community identity signals)
+tone_allergie: Corporate, pickup, manosphere
+preferred_content: Video
+brand_archetype_alignment: <BRAND_ARCHETYPE_ALIGNMENT> # ??? What does this mean
+
+
+# Funnel Mechanics
+discovery_channels:
+  - <DISCOVERY_CHANNELS_1>
+  - <DISCOVERY_CHANNELS_2>
+onboarding: <ONBOARDING>
+activation_metric: <ACTIVATION_METRIC>
+monetization_path: <MONETIZATION_PATH>
+referral_loop: <REFERRAL_LOOP_DESCRIPTION> (why do they refer others)
+retention_loop: <RETENTION_LOOP_DESCRIPTION> (why do they come back)
+
+
+# Messaging Toolkit
+hooks: <HOOKS>
+messaging_pillars: <MESSAGING_PILLARS>
+objection_handling: <OBJECTION_HANDLING>
+
+
+---
+
+
+# Narrative Snapshot
+<Brief narrative snapshot of the avatar>
+
+
+# Success Metrics
+- **<Metric_1>**: <Target_1>
+- **<Metric_2>**: <Target_2>
+</avatar_00>

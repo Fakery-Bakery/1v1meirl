@@ -1,0 +1,232 @@
+<finished-post>
+Finding your player two starts with vibing in the right spaces.
+
+People who get you. People on your wavelength.
+
+It’s simple: If you want connections that matter, hang out where your kind of people already are.
+
+Gaming, chill events, meaningful talks—get around people who understand your energy.
+
+Your next great connection will only happen when you show up.
+
+Show up. Connect. Level up together.
+</finished-post>
+
+<image-prompt>
+Macro-shot concept
+
+Subject & framing
+Tight, waist-level macro on two indigo GameCube controllers resting side-by-side on the middle cushion of a neutral-gray fabric couch. Both are angled slightly toward the unseen TV, so their convex buttons catch the light. Their black cords going outwards towards the tv, curve forward, intertwining on the cushion to form a crisp heart shape in the foreground.
+
+The controllers are low on the screen, the intwined cable heart is flat on the couch above them going towards the tv
+
+Background & depth of field
+Beyond the controllers, a minimalist TV stand occupies the top 20 % of the frame—just a blurred, horizontal silhouette with a faint glow from the screen. Shot at f/2.8 on a 90 mm macro lens, the stand dissolves into creamy bokeh so the eye stays on the controllers and cable-heart.
+
+Camera & settings
+• Body: Full-frame mirrorless (e.g., Sony α7 IV) for rich 14-bit color depth.
+• Lens: 90 mm f/2.8 G OSS Macro.
+• Aperture: f/2.8 to isolate the subject.
+• Shutter: 1/125 s (hand-held stability with IBIS).
+• ISO: 400 for a hint of grain that feels lived-in.
+• White balance: 3200 K to lean into warm, evening tones.
+
+Lighting
+Key: A softbox (3 × 2 ft) camera-left at 45°, dialed low, mimicking a nearby floor lamp—warm, diffused, wrapping the plastic shells with subtle specular highlights on the A/B buttons.
+Fill: A bounce card camera-right to lift the shadows just enough to reveal joystick texture without killing contrast.
+Practical: The TV itself casting a faint cool glow onto the rear wall, creating a gentle color contrast with the warm key.
+
+Shadow character
+Shadows fall softly onto the couch fabric, edges feathered; under each controller a delicate ellipse of shade anchors them. The cable-heart casts a shallow, intertwined shadow that visually reinforces the motif.
+
+Post-production cues
+Slight bump in vibrancy (+10) to make the purple shells pop, micro-contrast on the Start/Pause buttons, and a mild vignette to keep focus central.
+
+Caption placement
+In the negative space below the cords, overlay the line:
+
+FIND YOUR PLAYER TWO
+
+Set in all-caps, bold condensed sans-serif (e.g., Montserrat ExtraBold), pure white with 2 % drop shadow for legibility against the couch fabric.
+</image-prompt>
+
+<draft>
+to find your player two, you must be in spaces with similar people. 
+
+vibe with the right people, who get you, who understand you, who are on the same page.
+
+</draft>
+
+<prompt>
+Turn this draft and image into a post for facebook for the 1v1meirl crowd, specifically the avatar listed below. 
+Make it very simple, about dating, but also motivational.
+</prompt>
+
+<avatar_00>
+# Meta
+Avatar_id: TEST_01
+Internal_name: Zakery
+updated_at: 2025-05-30
+owner: Zakery
+citations:
+  - {source: From within, note: Just putting in my own info for reference}
+
+
+# Demographics (asl)
+age: 32
+pronouns: he/him
+location: Lawrenceville, GA
+
+
+# Socioeconomics
+occupation_title: Electrical Engineer # Old, currently inaccurate
+income: ~$100k # Old, currently inaccurate
+education: College Graduate
+
+
+# Digital Behavior
+devices:
+  - Android Phone
+  - PC
+top_channels: # (preferred content format)
+  - Youtube
+  - Facebook
+content_window: 7am-9am, 4pm-6pm (Time using channels/devices)
+trusted_sources: Youtube Philosophers
+content_habits:
+  - active on youtube background occasionally through the day
+  - active on facebook sporadically, posts on facebook
+  - active on instagram sporadically
+
+
+# Event Preferences
+activity_window: Weekends, 12n-5pm (time when they are available for events)
+location_window: Central Atlanta and East Metro Atlanta
+size: Less than 20 people (preferred size of the event, example: less than 20, or more than 80)
+
+
+# Psychographics
+values:
+  - Beauty
+  - Calm
+  - Connection
+  - Honesty
+pains: (including barriers and anxieties, logistical, emotional, social)
+  - social anxiety, dislike meeting people
+  - too many friends
+  - too many events
+  - no friends with similar interests
+  - few friends with high goals
+goals:
+  - Fleeting social connections
+  - Food
+  - new friends with similar interests/goals
+triggers: (moments that trigger community seeking)
+  - time, long time away from socializing
+  - new show/movie/youtube series starting or ending
+onboarding_anxiety: No clarity on who will be at the events
+
+
+# Social
+social_fluency: 4.5, hyper social (comfort level with events and meeting new people in person, etc…, from 0 = avoidant introvert to 5 = super charismatic extrovert)
+relationship_status: In a relationship (single, recently single, exploring poly, married with single friends, etc…)
+
+
+# Style Preferences
+voice_style: Academic, Philosophical, brain rot memes, youtube, self improvement (community identity signals)
+tone_allergie: Corporate, pickup, manosphere, spiritual, motivational
+preferred_content: Video, audio
+brand_archetype_alignment: creative
+
+
+# Funnel Mechanics
+discovery_channels:
+  - facebook ads
+  - meetup events
+onboarding: clicking a link in a facebook ad
+activation_metric: buying a ticket to an event
+monetization_path: enjoying an event and becoming a regular
+referral_loop: <REFERRAL_LOOP_DESCRIPTION> (why do they refer others)
+retention_loop: met new friends, assumed they would keep returning, building community (why do they come back)
+
+
+# Messaging Toolkit
+hooks: 
+  - "Hey man, it's been a while since you've been outside" (describing the future, and then mentioning the event at bnb)
+  - "The only thing worse than being in a bad relationship is being in a good one with the wrong person"
+  - "I'm not like other girls"
+  - "The only thing worse than social anxiety is being alone"
+  - "Our games are lame and repetitive, and no one here can sing, but we like to have a good time"
+  - (visual hook:) cool pictures from past events, and ai augmentations "Woah look at this cool picture from last week, OMG the ai is changing it to ANIMEEEE"
+messaging_pillars: (the consistent vibe of all content)
+  - self-improvement 
+  - funny
+  - 
+objection_handling:
+  - Will the girls be pretty?
+    - "See these pictures of our past events"
+  - People will not have similar interests
+    - "Hear this attendee talk about their interests"
+  - 
+
+
+---
+
+
+# Narrative Snapshot
+<Brief narrative snapshot of the avatar>
+
+
+# Success Metrics
+- **<Metric_1>**: <Target_1>
+- **<Metric_2>**: <Target_2>
+</avatar_00>
+
+<voice> 
+Passionate, Gary Vee Style hyper positive motivation, with Alex Hormozi realness, and Seth Godin vibes.
+
+Reading Level: 5th grade
+Talkativeness: moderately talkative (engaging, conversational length without rambling)
+Style: Casual, Conversational
+Characteristics: Reassurance, Motivational, Encouraging, Friendly, warm
+Driving Values: collaboration, connection, community, improvement
+
+Additional Details:  
+- Avoid jargon—define any specialized term  
+- No cringe or overused buzzwords  
+- don’t be cringe
+- don’t be cliche
+- no emoji
+- avoid sentences that negate expectations (like “X isn’t just about Y–...” or “X is more than just Y…”)
+- Always back claims with data or concrete example  
+- Trade‑offs must be acknowledged for credibility
+- Stay honest
+</voice>
+
+<facebook-post-practices>
+  <meta>
+    updated_at: 2025-05-28
+    owner: Zakery
+    <references>
+      Gary Vee Day Trading Attentions: https://docs.google.com/presentation/d/e/2PACX-1vT4PMwL_DtJoILnKJ-upmm4wqvkclPQCCRcHn8rg4N7Smz5aYo8nyhqL8oI9Jw_V4ueBckVWE4kX1-l/pub?start=false&loop=true&delayms=30000&slide=id.g3021a6998c6_0_4
+    </references>
+  </meta>
+
+  This is for social media; there is no formatting or titles for posts.
+  Plain text only—no headings, bullets, bold, italics, or emojis.
+
+  First sentence should be a strong hook.
+  Posts should focus on giving value to the readers more than direct advertising.
+  Use line breaks or even spacing to break up text and create white space, dense blocks can deter readers.
+  A short, snappy paragraph or a brief list is easier to scan than a long chunk of text.
+  Keep each paragraph to 1–3 sentences to maintain visual appeal in the feed.
+
+  No hashtags necessary. Use 0-3.
+
+  Post very early in the morning, between 5-7am.
+
+</facebook-post-practices>
+
+<additional-best-practices>
+  don't be cringe
+</additional-best-practices>

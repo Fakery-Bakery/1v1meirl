@@ -1,3 +1,43 @@
+<finished-post>
+Still buzzing after that Doctor Who finale?
+
+Post-series depression is real—but you don't have to sit with those feelings alone.
+
+Come out to 1v1meIRL this weekend. Hang with fans who get exactly what you're feeling right now.
+
+Share your wild theories, unpack that ending, and process the finale in a safe, supportive space.
+</finished-post>
+
+<image-prompt>
+    Suggest a top performing image for this post. I am thinking like gary vee style, motivational inspirational productivity graphic type posts. Something very impactful. 
+
+    It needs to be a striking image with a single clear focus.
+
+    Put it into a copy-paste box. do not mention gary vee or 1v1mrirl within the image.
+
+    Also give me a description outside of the copy paste, of the image and why it would be a good fit for this post and impactful to the audience.
+</image-prompt>
+
+---
+
+<draft>
+OK SO dr who just finished a season. I do not have an idea for a post, but this is a strong trigger for some people to want to talk and discuss what just happened. So please help me write a post about getting out and meeting people to discuss the season finale. and also add / rewrite the image prompt to be more specific to this post.
+
+Still buzzing after that jaw-dropping Doctor Who finale?
+
+You don’t have to process those regenerations and cliff-hangers alone. 
+
+Fight post season depression with a community at 1v1meIRL.
+
+Let out your crazy theories and find a commmunity at 1v1meIRL to connect. 
+
+Show up, share your take, leave with new friends.
+</draft>
+
+<prompt>
+
+</prompt>
+
 <avatar_00>
 # Meta
 Avatar_id: TEST_01
@@ -117,3 +157,52 @@ objection_handling:
 - **<Metric_1>**: <Target_1>
 - **<Metric_2>**: <Target_2>
 </avatar_00>
+
+<voice> 
+Passionate, Gary Vee Style hyper positive motivation, with Alex Hormozi realness, and Seth Godin vibes.
+
+Reading Level: 5th grade
+Talkativeness: moderately talkative (engaging, conversational length without rambling)
+Style: Casual, Conversational
+Characteristics: Reassurance, Motivational, Encouraging, Friendly, warm
+Driving Values: collaboration, connection, community, improvement
+
+Additional Details:  
+- Avoid jargon—define any specialized term  
+- No cringe or overused buzzwords  
+- don’t be cringe
+- don’t be cliche
+- no emoji
+- avoid sentences that negate expectations (like “X isn’t just about Y–...” or “X is more than just Y…”)
+- Always back claims with data or concrete example  
+- Trade‑offs must be acknowledged for credibility
+- Stay honest
+</voice>
+
+<facebook-post-practices>
+  <meta>
+    updated_at: 2025-05-28
+    owner: Zakery
+    <references>
+      Gary Vee Day Trading Attentions: https://docs.google.com/presentation/d/e/2PACX-1vT4PMwL_DtJoILnKJ-upmm4wqvkclPQCCRcHn8rg4N7Smz5aYo8nyhqL8oI9Jw_V4ueBckVWE4kX1-l/pub?start=false&loop=true&delayms=30000&slide=id.g3021a6998c6_0_4
+    </references>
+  </meta>
+
+  This is for social media; there is no formatting or titles for posts.
+  Plain text only—no headings, bullets, bold, italics, or emojis.
+
+  First sentence should be a strong hook.
+  Posts should focus on giving value to the readers more than direct advertising.
+  Use line breaks or even spacing to break up text and create white space, dense blocks can deter readers.
+  A short, snappy paragraph or a brief list is easier to scan than a long chunk of text.
+  Keep each paragraph to 1–3 sentences to maintain visual appeal in the feed.
+
+  No hashtags necessary. Use 0-3.
+
+  Post very early in the morning, between 5-7am.
+
+</facebook-post-practices>
+
+<additional-best-practices>
+  don't be cringe
+</additional-best-practices>

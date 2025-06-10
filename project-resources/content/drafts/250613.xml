@@ -3,27 +3,13 @@
 </finished-post>
 
 <image-prompt>
-  Suggest a top performing image for this post. I am thinking like gary vee style, motivational inspirational productivity graphic type posts. Something very impactful. 
 
-  It needs to be a striking image with a single clear focus.
-
-  Put it into a copy-paste box. do not mention gary vee or DTS within the image.
-
-  Also give me a description outside of the copy paste, of the image and why it would be a good fit for this post and impactful to the audience.
 </image-prompt>
 
 ---
 
 <draft>
-The most important thing to do when meeting new friends is to be authentic. You want to play for the long game, that means making sure they like you for who you are, not who you pretend to be. 
-
-At 1v1meirl, our crowd self selects for nerdy gamers who are a little quirky with unique interests. We all love it when you share something about yourself that is different from the norm.
-
-So be open to let loose, and really connect on a deeper level.
-
-Actionable step, if you are not sure what to say, just ask them about themselves.
-
-Allow others the space to be themselves, and you will be rewarded with a deeper connection.
+Some of these games are lame af but they will make you laugh and have a good time
 </draft>
 
 <prompt>
@@ -31,7 +17,7 @@ Allow others the space to be themselves, and you will be rewarded with a deeper 
     Action: more good stuff, less bad stuff
     Inaction: more bad stuff, less good stuff
 
-Turn this draft into a post for facebook for the 1v1meirl crowd. Make it super simple
+Turn this draft into a post for facebook for the 1v1meirl crowd. Make it super simple, Make a clear hook, be authentic, passionate
 </prompt>
 
 <avatar_00>
